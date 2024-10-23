@@ -2,4 +2,4 @@
 
 Hello Odin!
 
-My plan is to make every foundations course is just this reposiroty.
+My plan is to make every foundations course in just this reposiroty.
